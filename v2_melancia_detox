@@ -1,13 +1,15 @@
-<html>
-<head>
-<title>Detox</title>
-<meta http-equiv="refresh" content="1; URL=https://hotm.art/W3OTLu">
-<meta name="keywords" content="automatic redirection">
-</head>
-<body>
-If your browser doesn't automatically go there within a few seconds, 
-you may want to go to 
-<a href="https://hotm.art/W3OTLu">the destination</a> 
-manually.
-</body>
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://hotm.art/W3OTLu">
+        <script type="text/javascript">
+            window.location.href = "https://hotm.art/W3OTLu"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://hotm.art/W3OTLu'>link to example</a>.
+    </body>
 </html>
